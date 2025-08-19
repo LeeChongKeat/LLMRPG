@@ -1,6 +1,6 @@
-# 🧠 LLM RPG Game - AI Dialogue Edition
+# 🧠 LLM Role-Playing Game - AI Dialogue Edition
 
-> A retro-style LLM RPG Game where **NPCs are powered by AI** — and you can **watch them think in real time**.
+> A retro-style LLM RPG where **NPCs are powered by AI** — and you can **watch them think in real time**.
 
 ![Game Screenshot](/Assets/main.png)  
 *NPCs with personalities, powered by local LLMs, showing their thoughts as they talk.*
